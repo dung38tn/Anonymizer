@@ -13,9 +13,9 @@ setup(
     description="Anonymize users",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Curious-Joe/Anonymizer.git",
-    author="Arafath Hossain",
-    author_email="a.h.fahad90@gmail.com",
+    url="https://github.com/dung38tn/Anonymizer.git",
+    author="Do Trung Dung",
+    author_email="dung38tn@yahoo.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
